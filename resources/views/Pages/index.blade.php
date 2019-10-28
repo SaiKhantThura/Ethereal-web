@@ -310,7 +310,7 @@
 							<div class="team-member">
 								<div class="team-member-holder wow flipInY" data-wow-duration="1s" data-wow-delay="1100ms">
 									<div class="team-member-image">
-										<img src="/images/ethereal/team/saikhantthura.jpg" alt="" /> <!-- Change Image -->	
+										<img src="/images/ethereal/Team/saikhantthura.jpg" alt="" /> <!-- Change Image -->	
 										<div class="team-overlay">
 											<div class="img-overlay"></div>
 										</div>
