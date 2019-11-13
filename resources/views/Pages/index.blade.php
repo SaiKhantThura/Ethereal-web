@@ -89,7 +89,7 @@
         <div class="carousel-inner">
 			<div class="item active" style="background-image: url(/xlight/images/slider/bg-1.jpg)"> <!-- Change Image -->
 				<div class="caption">
-					<h1 class="animated fadeInLeftBig">Welcome to <strong>ETHEREAL</strong></h1>
+					<h1 class="animated fadeInLeftBig">Welcome to <strong>ETHEREALSystem</strong></h1>
 					<p class="animated fadeInRightBig">Premium Multipurpose Theme</p>
 					<a data-scroll class="learn-more animated fadeInUpBig" href="#about">Start now</a>
 				</div>
@@ -302,7 +302,7 @@
 									<div class="team-member-meta">
 										<h4 class="team-member-name"><span class="main-color">K</span>en <span class="main-color">S</span>mith</h4>
 										<div class="team-member-role">Sales Manager</div>
-									</div>
+									</div>dsg
 								</div>
 							</div>
 						</div>
